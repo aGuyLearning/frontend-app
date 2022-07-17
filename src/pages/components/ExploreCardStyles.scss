@@ -1,0 +1,29 @@
+.explore-card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    border-width: 0px !important;
+    box-shadow: 2px;
+}
+
+hr {
+    margin-bottom: 50px;
+}
+
+.explore-btn {
+    border: none;
+    box-shadow: 2px;
+    background-color: #EEB774;
+    max-width: 200px;
+}
+.explore-btn:hover{
+        background-color: #da9746;
+}
+
+.explore-text {
+    color: black;
+}
+
+.text-input::placeholder {
+    color: #c4c4c4;
+}

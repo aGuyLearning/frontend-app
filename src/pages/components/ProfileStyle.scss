@@ -1,0 +1,66 @@
+
+.profile-card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 100%;
+    border-width: 0px !important;
+    box-shadow: none;
+}
+
+hr {
+    margin-bottom: 50px;
+}
+
+.profile-card:hover {
+    transform: scale(1);
+}
+
+.category {
+    margin-right: 5px;
+    font-size: small;
+}
+
+.entry {
+    font-weight: bold;
+}
+
+.reward {
+    font-weight: bold;
+}
+
+.row {
+    margin: 10px
+}
+
+.small-row {
+    margin: 0px;
+    font-size: small;
+}
+
+.small-row-bold {
+    margin: 0px;
+    font-weight: bold;
+}
+
+.small-row-title {
+    margin: 0px;
+    font-size: 24px;
+}
+
+.title {
+    font-size: 24px;
+    text-align: right;
+}
+
+.italic-title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.airline {
+    margin-right: 10px;
+}
+
+.warning-icon {
+    margin: 10px;
+}
