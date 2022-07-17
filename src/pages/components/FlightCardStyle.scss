@@ -1,0 +1,55 @@
+
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    border-bottom-width: 18px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.card:hover {
+    transform: scale(1.02);
+}
+
+.row {
+    margin: 10px
+}
+
+.small-row {
+    margin: 0px;
+    font-size: small;
+}
+
+.small-row-bold {
+    margin: 0px;
+    font-weight: bold;
+}
+
+.small-row-title {
+    margin: 0px;
+    font-size: 24px;
+}
+
+.title {
+    font-size: 24px;
+    text-align: right;
+}
+
+.italic-title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.airline {
+    margin-right: 10px;
+}
+
+.warning-icon {
+    margin: 10px;
+}
+
+.warning {
+    margin-left: -30px;
+    margin-right: 5px;
+    color: red;
+}
